@@ -30,3 +30,6 @@
     font-size: 18px;
     color: blue;
 }
+.primeira-linha{
+    display: grid;
+}
