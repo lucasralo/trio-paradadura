@@ -16,7 +16,6 @@
     font-family:Emblema One;
     text-align: center;
 }
-}
 .h2{
     font-family: Emblema One;
     font-size: 28px;
@@ -30,6 +29,6 @@
     font-size: 18px;
     color: blue;
 }
-.primeira-linha{
-    display: grid;
+.foto{
+    width: 30% 30% 30%;
 }
