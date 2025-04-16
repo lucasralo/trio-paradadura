@@ -54,7 +54,20 @@
     display: flex;
 }
 .topicos{
-    text-decoration: none;
-    list-style-type: none;
     display: flex;
+    position: absolute;
+    padding: 1em;
+    list-style-type: none;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: left;
+}
+.botao-link{
+    text-decoration: none;
+    display: flex;
+    color: #e8fbbb;
+    font-size: 24px;
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: #4d543d;
 }
