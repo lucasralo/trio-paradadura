@@ -23,11 +23,11 @@
 }
 .texto-inicial{
     font-size: 24px;
-    color: rgb(0, 76, 255);
+    color: rgb(255, 255, 255);
 }
 .texto-fonte{
     font-size: 18px;
-    color: rgb(0, 60, 255);
+    color: rgb(0, 0, 0);
 }
 .foto{
     width: 33%;
